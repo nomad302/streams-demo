@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is gully gang",
+      "id": 1
+    },
+    {
+      "title": "Gully gang",
+      "description": "this is Kohinoor stream",
+      "id": 2
+    },
+    {
+      "title": "Realtime Face Detection",
+      "description": "face detection stream",
+      "userId": "109360514139646574314",
+      "id": 3
+    },
+    {
+      "title": "component resue and clean code",
+      "description": "me streaming resuability of component and clean code",
+      "id": 6
+    }
+  ]
+}
